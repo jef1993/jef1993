@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 <a href='https://github.com/jef1993'>My GitHub</a>
 
 [My Github](https://github.com/jef1993)
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/1200px-How_to_use_icon.svg.png "logo Title Text")
+
+![alt text][logo]
+
+[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/1200px-How_to_use_icon.svg.png "logo Title Text"
