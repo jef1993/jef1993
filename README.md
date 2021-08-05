@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [logo]: https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg "logo Title Text" -->
 
-<im src='https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg' alt='alt text' width='100'/>
+<img src='https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg' alt='alt text' width='100'/>
