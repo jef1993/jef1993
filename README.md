@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 [My Github](https://github.com/jef1993)
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/1200px-How_to_use_icon.svg.png "logo Title Text")
+<!-- ![alt-text](https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg "logo Title Text")
 
 ![alt text][logo]
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/1200px-How_to_use_icon.svg.png "logo Title Text"
+[logo]: https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg "logo Title Text" -->
+
+<im src='https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg' alt='alt text' width='100'/>
