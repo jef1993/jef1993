@@ -1,9 +1,11 @@
-### Welcome to my github Page 👋
+### Welcome to my Github Page 👋
 
-I am currently looking for a full-time frontend role.
+Hi, my name is Jeffrey Leung and I am currently looking for a full-time role.
  
 <h3 align='center'>
- <a href='http://jeffreyleung.netlify.app/'>MySite</a>
+ <a href='http://jeffreyleung.netlify.app/'>
+  <img src=''>
+ </a>
 </h3>
 
 
