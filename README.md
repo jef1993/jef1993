@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div align='center'>
+<div align='center' height='200'>
 <img src='https://github-readme-stats.vercel.app/api?username=jef1993&theme=swift&show_icons=true'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jef1993&langs_count=3&theme=swift'>
 </div>
