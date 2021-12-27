@@ -1,10 +1,9 @@
 ### Welcome to my github Page 👋
 
+I am currently looking for a full-time frontend role.
  
- 
- <h3 align='center'>
- <p>I am currently looking for a full-time frontend role.<a href='http://jeffreyleung.netlify.app/'>MySite</a></p>
-   
+<h3 align='center'>
+ <a href='http://jeffreyleung.netlify.app/'>MySite</a>
 </h3>
 
 
