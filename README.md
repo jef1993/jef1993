@@ -4,7 +4,7 @@ Hi, my name is Jeffrey Leung and I am currently looking for a full-time role.
  
 <h3 align='center'>
  <a href='http://jeffreyleung.netlify.app/'>
-  <img src=''>
+  <img src='https://raw.githubusercontent.com/jef1993/jef1993/main/logo.svg' width=200>
  </a>
 </h3>
 
