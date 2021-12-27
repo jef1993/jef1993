@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=jef1993&theme=swift&show_icons=true'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jef1993&langs_count=3&theme=swift'>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jef1993&show_icons=true&line_height=27&theme=swift" alt="Jeffrey's GitHub Stats" />
 </div>
 
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jef1993&langs_count=3&theme=swift&layout=compact'>
+
 </div>
 
