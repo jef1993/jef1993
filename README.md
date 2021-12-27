@@ -1,5 +1,6 @@
 ### Welcome to my Github Page 👋
 
+<br>
 <p align='center'>Hi, my name is Jeffrey Leung and I am currently looking for a full-time role.</p>
  
 <h3 align='center'>
@@ -7,6 +8,7 @@
   <img src='https://raw.githubusercontent.com/jef1993/jef1993/main/logo.svg' width=200>
  </a>
 </h3>
+<br>
 
 
 
