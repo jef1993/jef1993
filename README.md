@@ -1,6 +1,6 @@
 ### Welcome to my Github Page 👋
 
-<br>
+<br height=1200>
 <p align='center'>Hi, my name is Jeffrey Leung and I am currently looking for a full-time role.</p>
  
 <h3 align='center'>
