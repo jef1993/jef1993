@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jef1993)](https://github.com/jef1993/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef1993)](https://github.com/jef1993/github-readme-stats)
