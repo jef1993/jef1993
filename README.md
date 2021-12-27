@@ -2,10 +2,10 @@
 
  
  
- <h2 align='center'>
- <p>I am currently looking for a full-time frontend role. </p>
-   <a href='http://jeffreyleung.netlify.app/'>My Portfolio Site</a>
-</h2>
+ <h3 align='center'>
+ <p>I am currently looking for a full-time frontend role.<a href='http://jeffreyleung.netlify.app/'>MySite</a></p>
+   
+</h3>
 
 
 
