@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div align='center' height='200'>
+<div align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=jef1993&theme=swift&show_icons=true'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jef1993&langs_count=3&theme=swift&layout=compact'>
+</div>
+
+<div align='center'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jef1993&langs_count=3&theme=swift&layout=compact'>
 </div>
 
