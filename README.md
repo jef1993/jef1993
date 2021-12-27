@@ -13,17 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href='https://github.com/jef1993'>My GitHub</a>
-<a href='https://www.facebook.com/jeffrey.leung.77'>
-<img src='facebook.svg'  alt='facebook icon' width='50'/>
-</a>
-
-[My Github](https://github.com/jef1993)
-
-<!-- ![alt-text](https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg "logo Title Text")
-
-![alt text][logo]
-
-[logo]: https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg "logo Title Text" -->
-
-<img src='https://icon-library.com/images/facebook-icon-png-32x32/facebook-icon-png-32x32-29.jpg' alt='alt text' width='100'/>
+[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jef1993)](https://github.com/jef1993/github-readme-stats)
