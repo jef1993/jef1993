@@ -1,7 +1,7 @@
 ### Welcome to my Github Page 👋
 
 <br>
-<p align='center'>Hi, my name is Jeffrey Leung and I am currently looking for a full-time role.</p>
+<p align='center'>Hi, my name is Jeffrey Leung and I am currently working as a Frontend Developer at OPOP media.</p>
  
 <h3 align='center'>
  <a href='http://jeffreyleung.netlify.app/'>
